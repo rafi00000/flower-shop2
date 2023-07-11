@@ -144,6 +144,28 @@
     border-radius: 8px
 }
 
+/* customer */
+.customer-review-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+
+.customer-review{
+    width: 250px;
+    background-color: #e46a85;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 10px;
+    text-align: center;
+    margin: 5px;
+    padding: 20px;
+}
+
+
+/* customer review section ends */
+
 /* footer section starts */
 .footer-container{
     background-color: #111010;
